@@ -5,6 +5,7 @@ The Terminal-Based System incorporates a voice assistant and vibrant color schem
 
 This repository serves as a practical demonstration of integrating Python programming with database management, showcasing real-world applications of software development concepts. It is an ideal project for students and developers looking to explore Python, Tkinter, and MySQL in a cohesive and meaningful way.
 
+> **Note:** This code is optimized for Windows environments. Some features may not work as expected on Linux or macOS.
 
 ## This repository having two Flight Booking Systems,
 ## --> First is Terminal Based
